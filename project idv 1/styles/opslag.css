@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+head {
+    display: flex;
+    justify-content:flex-end ;
+    margin-top: 2%;
+}
+
+header {
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    justify-content: center;
+    margin-right: 2em;
+    margin-bottom: 2em;
+}
+
+main {
+    text-align: center;
+    align-items: center;
+    border-image-width: 30%;
+}
+
+body {
+    background-color: rgb(245, 230, 205);
+    align-content: left;
+    font-family: monospace
+}
+
+footer {
+    background-color: rgb(91, 121, 84);
+    position: fixed;
+    bottom: 0%;
+    width: 100vw;
+    height: 4em;
+    text-align: center;
+}
+
+#kilo {
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
